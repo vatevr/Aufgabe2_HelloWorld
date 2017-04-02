@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aufgabe2_HelloWorld</string>
+    <string name="label_student">Student: %1$s</string>
+    <string name="label_MatricelNummer">Matrikelnummer: %1$s</string>
+</resources>
